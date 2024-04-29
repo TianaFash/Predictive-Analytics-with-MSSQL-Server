@@ -1,4 +1,8 @@
 # AdventureWorks SQL Queries: Extracting Insights for Informed Decision-Making to Improve Business Performance
+      
+![image](https://github.com/TianaFash/Descriptive-Exploratory-and-Predictive-Analysis/assets/166267039/6c75dc8f-672c-45f0-af31-fd6149684841)
+
+## Introduction
 AdventureWorks is a comprehensive database encompassing various aspects of a fictional company's operations, providing a rich dataset for analysis and decision-making. In this project, I analyze a series of business queries to extract meaningful insights and facilitate informed decision-making with the use of SQL. Each query presents a unique scenario, prompting us to employ SQL queries to retrieve relevant data from the AdventureWorks database:
 
 ## Query 1: Optimizing Product Selection and Pricing Strategy
@@ -355,5 +359,7 @@ By following these recommendations and adopting a proactive approach to SQL quer
 
 # Conclusion
 Exploring a series of SQL queries analyzing the AdventureWorks database provides actionable insights for strategic decision-making. From optimizing product selection and pricing strategies to evaluating employee demographics and streamlining manufacturing processes, each query offers valuable perspectives for enhancing operational efficiency and driving business growth. 
+
+## Thank you for your interest.
 
 
