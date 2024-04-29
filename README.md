@@ -1,4 +1,4 @@
-# Analysis and Recommendations for Business Queries in AdventureWorks Database
+# Analysis and Recommendations for Business Queries in AdventureWorks Database using SQL
 AdventureWorks is a comprehensive database encompassing various aspects of a fictional company's operations, providing a rich dataset for analysis and decision-making. In this project, I analyze a series of business queries to extract meaningful insights and facilitate informed decision-making with the use of SQL. Each query presents a unique scenario, prompting us to employ SQL queries to retrieve relevant data from the AdventureWorks database:
 
 ## Query 1: Optimizing Product Selection and Pricing Strategy
