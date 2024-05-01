@@ -17,7 +17,7 @@ WHERE Colour IS NOT NULL
 ORDER BY ListPrice DESC;
 ```
 ## Query 2: Employee Recruitment and Diversity
-Afterwards, I analyzed employee demographics and recruitment trends by identifying male employees born between 1962 to 1970 and female employees born between 1972 and 1975, along with specific hire date criteria between 2001 and 2002. I aim to gain insights into workforce diversity and recruitment patterns. Our recommendation involves refining recruitment strategies to target specific demographic segments, ensuring a diverse and inclusive workforce:
+Afterwards, I analyzed employee demographics and recruitment trends by identifying male employees born between 1962 to 1970 and female employees born between 1972 and 1975, along with specific hire date criteria between 2001 and 2002. I aimed to gain insights into workforce diversity and recruitment patterns. My recommendation involves refining recruitment strategies to target specific demographic segments, ensuring a diverse and inclusive workforce:
 
 ``` SQL Query for Employee Recruitment and Diversity
 SELECT *
