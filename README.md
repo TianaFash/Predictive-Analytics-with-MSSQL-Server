@@ -3,7 +3,7 @@
 ![image](https://github.com/TianaFash/Descriptive-Exploratory-and-Predictive-Analysis/assets/166267039/6c75dc8f-672c-45f0-af31-fd6149684841)
 
 ## Introduction
-AdventureWorks is a comprehensive database encompassing various aspects of a fictional company's operations, providing a rich dataset for analysis and decision-making. In this project, I analyze a series of business queries to extract meaningful insights and facilitate informed decision-making to improve business growth with the use of SQL. Each query presents a unique scenario, prompting us to employ SQL queries to retrieve relevant data from the AdventureWorks database:
+AdventureWorks is a comprehensive database encompassing various aspects of a fictional company's operations, providing a rich dataset for analysis and decision-making. In this project, I analyzed a series of business queries to extract meaningful insights and facilitate informed decision-making to improve business growth with the use of SQL. Each query presents a unique scenario, prompting us to employ SQL queries to retrieve relevant data from the AdventureWorks database:
 
 ## Query 1: Optimizing Product Selection and Pricing Strategy
 The first query focuses on product selection and pricing strategy. By retrieving information about products with specific color values and price ranges, we aim to optimize product offerings and pricing. Our recommendation includes filtering out products with undesirable colors such as red, silver/black, and white, while also considering the price range between £75 and £750 to ensure competitiveness. Additionally, renaming the 'StandardCost' column to 'Price' enhances clarity in the dataset. Sorting the results by list price in descending order enables better visualization of product pricing dynamics, aiding in strategic decision-making regarding product promotion and pricing adjustments:
@@ -17,7 +17,7 @@ WHERE Colour IS NOT NULL
 ORDER BY ListPrice DESC;
 ```
 ## Query 2: Employee Recruitment and Diversity
-Afterwards, I analyze employee demographics and recruitment trends by identifying male employees born between 1962 to 1970 and female employees born between 1972 and 1975, along with specific hire date criteria between 2001 and 2002. I aim to gain insights into workforce diversity and recruitment patterns. Our recommendation involves refining recruitment strategies to target specific demographic segments, ensuring a diverse and inclusive workforce:
+Afterwards, I analyzed employee demographics and recruitment trends by identifying male employees born between 1962 to 1970 and female employees born between 1972 and 1975, along with specific hire date criteria between 2001 and 2002. I aim to gain insights into workforce diversity and recruitment patterns. Our recommendation involves refining recruitment strategies to target specific demographic segments, ensuring a diverse and inclusive workforce:
 
 ``` SQL Query for Employee Recruitment and Diversity
 SELECT *
