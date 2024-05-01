@@ -263,7 +263,6 @@ LEFT JOIN
 --31,465 rows returned
 ``` 
 
-
 ## Query 15: Calculating Product Commission and Margin
 Calculating product commissions and margins helps businesses optimize pricing strategies and profitability. By adjusting prices based on color categories and standard costs, businesses can maximize profit margins and sales revenue. This data-driven pricing approach ensures competitive pricing and profitability across product lines:
 
@@ -311,7 +310,7 @@ GROUP BY
 ```
 
 ## Query 16: Creating a View for Product Analysis
-Creating a view to identifying the top five most expensive products for each color category facilitates product analysis and decision-making. By organizing product data based on color and price, businesses can identify trends and opportunities for product differentiation. This view provides valuable insights for product development and marketing strategies:
+Creating a view to identify the top five most expensive products for each color category facilitates product analysis and decision-making. By organizing product data based on color and price, businesses can identify trends and opportunities for product differentiation. This view provides valuable insights for product development and marketing strategies:
 
 ``` SQL Query for CREATING VIEW Top 5 Most Expensive Products Per Color 
 A)
@@ -360,6 +359,6 @@ By following these recommendations and adopting a proactive approach to SQL quer
 # Conclusion
 Exploring a series of SQL queries analyzing the AdventureWorks database provides actionable insights for strategic decision-making. From optimizing product selection and pricing strategies to evaluating employee demographics and streamlining manufacturing processes, each query offers valuable perspectives for enhancing operational efficiency and driving business growth. 
 
-## Thank you for your interest.
+### Thank you for your interest.
 
 
