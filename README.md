@@ -201,7 +201,7 @@ LEFT JOIN
 ``` 
 
 ## Query 13: Analyzing Sales Transactions
-Analyzing sales transactions helps businesses understand product performance, customer preferences, and regional sales trends. By extracting key information such as product names, salesperson details, and transaction dates, businesses can identify opportunities for growth and optimization. This data-driven analysis guides
+Analyzing sales transactions helps businesses understand product performance, customer preferences, and regional sales trends. By extracting key information such as product names, salesperson details, and transaction dates, businesses can identify opportunities for growth and optimization. This data-driven analysis guides strategic decision-making processes and marketing strategies:
 
 ``` SQL Query fo Analyzing Sales Transactions
 SELECT 
