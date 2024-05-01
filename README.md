@@ -198,7 +198,7 @@ LEFT JOIN
     Person.CountryRegion cr ON st.CountryRegionCode = cr.CountryRegionCode;
 
 --17 rows returned
-
+``` 
 
 ## Query 13: Analyzing Sales Transactions
 Analyzing sales transactions helps businesses understand product performance, customer preferences, and regional sales trends. By extracting key information such as product names, salesperson details, and transaction dates, businesses can identify opportunities for growth and optimization. This data-driven analysis guides
