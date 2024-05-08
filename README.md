@@ -2,6 +2,29 @@
       
 ![image](https://github.com/TianaFash/Descriptive-Exploratory-and-Predictive-Analysis/assets/166267039/6c75dc8f-672c-45f0-af31-fd6149684841)
 
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Query 1: Optimizing Product Selection and Pricing Strategy](#query-1-optimizing-product-selection-and-pricing-strategy)
+3. [Query 2: Employee Recruitment and Diversity](#query-2-employee-recruitment-and-diversity)
+4. [Query 3: Prioritizing High-Value Products](#query-3-prioritizing-high-value-products)
+5. [Query 4: Enhancing Customer Relationship Management](#query-4-enhancing-customer-relationship-management)
+6. [Query 5: Streamlining Manufacturing Processes](#query-5-streamlining-manufacturing-processes)
+7. [Query 6: Tailoring Product Segmentation Strategies](#query-6-tailoring-product-segmentation-strategies)
+8. [Query 7: Optimizing Organizational Structure](#query-7-optimizing-organizational-structure)
+9. [Query 8: Understanding Employee Demographics](#query-8-understanding-employee-demographics)
+10. [Query 9: Recognizing Employee Longevity](#query-9-recognizing-employee-longevity)
+11. [Query 10: Retirement Planning for Employees](#query-10-retirement-planning-for-employees)
+12. [Query 11: Implementing Pricing Policies](#query-11-implementing-pricing-policies)
+13. [Query 12: Evaluating Salesperson Performance](#query-12-evaluating-salesperson-performance)
+14. [Query 13: Analyzing Sales Transactions](#query-13-analyzing-sales-transactions)
+15. [Query 14: Understanding Order Details](#query-14-understanding-order-details)
+16. [Query 15: Calculating Product Commission and Margin](#query-15-calculating-product-commission-and-margin)
+17. [Query 16: Creating a View for Product Analysis](#query-16-creating-a-view-for-product-analysis)
+18. [Enhancing SQL Query Performance: Best Practices and Recommendations](#enhancing-sql-query-performance-best-practices-and-recommendations)
+19. [Conclusion](#conclusion)
+
+
 ## Introduction
 AdventureWorks is a comprehensive database encompassing various aspects of a fictional company's operations, providing a rich dataset for analysis and decision-making. In this project, I analyzed a series of business queries to extract meaningful insights and facilitate informed decision-making to improve business growth with the use of SQL. Each query presents a unique scenario, prompting us to employ SQL queries to retrieve relevant data from the AdventureWorks database:
 
